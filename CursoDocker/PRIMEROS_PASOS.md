@@ -129,7 +129,7 @@ Resultado: `¡Hola desde Docker!`
 
 Cuando todo funcione, comienza con:
 
-### 📖 [Módulo 1: Conceptos Básicos](/MODULO_1_CONCEPTOS/1_QUE_ES_DOCKER.md)
+### 📖 [Módulo 1: Conceptos Básicos](CursoDocker/MODULO_1_CONCEPTOS/1_QUE_ES_DOCKER.md)
 
 ---
 
